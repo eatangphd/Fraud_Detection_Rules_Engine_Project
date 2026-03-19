@@ -3,12 +3,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vgi2dqsAb3QSFwlClTn1-5aWE3HDsAXK?usp=sharing)
 
-A Python-based simple rules engine to flag potential fraudulent personal spending transactions. Topics: python, rules-engine, anomaly-detection, personal-finance, fraud-detection, data-science, matplotlib, pandas, numpy, seaborn, google-colab
+A Python-based simple rules engine to flag potential fraudulent personal spending transactions. Topics: Python, rules-engine, anomaly-detection, personal-finance, fraud-detection, data-science, matplotlib, pandas, numpy, seaborn, Google Colab
 
 
 ## 📋 Overview
 
-**Fraud Detector rules engine** is a rule-based fraud detection system that analyzes personal spending patterns to identify potentially fraudulent transactions. This project demonstrates how simple rules can be created and tested using transaction data (date, amount, category).
+**Fraud Detector Rules Engine** is a rule-based fraud detection system that analyzes personal spending patterns to identify potentially fraudulent transactions. This project demonstrates how simple rules can be created and tested using transaction data (date, amount, category).
 
 ### 🎯 Features
 
