@@ -38,7 +38,7 @@ This project is open source and available under the MIT License.
 - Inspired by **real-world fraud detection systems**
 - Built with **Python**, **Pandas**, and **Matplotlib**
 - Special thanks to the **open-source community**
-- 
+
 ### 📧 Contact email: liz21atang@gmail.com
 **Elizabeth (Epse Kombe) Atang**: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/elizabeth-atang)
 
